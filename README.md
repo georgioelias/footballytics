@@ -3,6 +3,9 @@
 ## Student Information
 **Name:** Georgio Elias
 
+## Live Demo
+🌐 **Live Application**: [https://footballytics-platform.onrender.com/](https://footballytics-platform.onrender.com/)
+
 ## API Used
 **TheSportsDB** - https://www.thesportsdb.com/api.php
 
